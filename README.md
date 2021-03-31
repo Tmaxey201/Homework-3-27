@@ -8,7 +8,7 @@
 
 Changes were made to several HTML elements in order to better follow correct HTML semantics
 
-! [semantics] (./assets/imagines/SEMANTICS-screenshot.jpg)
+! [SEMANTICS screenshot] (./assets/images/SEMANTICS-screenshot.jpg)
 
 The elements follow a logical structure independent of styling and positioning 
 
