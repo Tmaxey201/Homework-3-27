@@ -12,16 +12,20 @@ Changes were made to several HTML elements in order to better follow correct HTM
 
 The elements follow a logical structure independent of styling and positioning 
 
-SCREEN SHOT HERE
+![Logical structure](./assets/images/Logical-structure.jpg)
 
-Added alt attributes to image elements
+Added alt attributes to image elements 
 
-SCREEN SHOT HERE
+![Alt image add](./assets/images/alt-image-add.jpg)
 
-Confirmed that Heading attributes fall in sequential order
+Added a div id to fix a link
 
-SCREEN SHOT HERE
+![Div id fix](./assets/images/div-id-fix.jpg)
 
 Changed the title to be more descriptive and concise 
 
-SCREEN SHOT HERE
+![Improved title](./assets/images/imrpoved-title.jpg)
+
+Confirmed that Heading attributes fall in sequential order
+
+
