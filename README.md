@@ -20,11 +20,11 @@ Added alt attributes to image elements
 
 Added a div id to fix a link
 
-![Div id fix](./assets/images/div-id-fix.jpg)
+![Div id fix](./assets/images/Div-id-fix.jpg)
 
 Changed the title to be more descriptive and concise 
 
-![Improved title](./assets/images/imrpoved-title.jpg)
+![Improved title](./assets/images/improved-title.jpg)
 
 Confirmed that Heading attributes fall in sequential order
 
