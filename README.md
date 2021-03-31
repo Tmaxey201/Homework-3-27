@@ -26,6 +26,18 @@ Changed the title to be more descriptive and concise
 
 ![Improved title](./assets/images/improved-title.jpg)
 
+Consolidated styling 
+
+![Consolidated Stylesheet](./assets/images/consolidated-stylesheet.jpg)
+
+Replaced div class with section class for two lines
+
+![replaced div with section](./assets/images/replaced-div-with-section.jpg)
+
+Added a footer class
+
+![footer](./assets/images/footer.jpg)
+
 Confirmed that Heading attributes fall in sequential order
 
 
