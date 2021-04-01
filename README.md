@@ -36,11 +36,11 @@
 
 ### Added an ID tag to images 
 
-![html-id-link](./assets/images/html-id-link.jpg)
+![html id link](./assets/images/html-id-link.jpg)
 
 ### Consolidated ID tags in stylesheet
 
-![ID-consolidation-style](./assets/images/ID-consolidation-style.jpg)
+![ID consolidation style](./assets/images/ID-consolidation-style.jpg)
 
 ### Added a footer class
 
@@ -49,3 +49,4 @@
 ### Confirmed that Heading attributes fall in sequential order
 
 
+[Deployment link to Horiseon](https://tmaxey201.github.io/Homework-3-27/)
