@@ -34,6 +34,14 @@
 
 ![replaced div with section](./assets/images/replaced-div-with-section.jpg)
 
+### Added an ID tag to images 
+
+![html-id-link](./assets/images/html-id-link.jpg)
+
+### Consolidated ID tags in stylesheet
+
+![ID-consolidation-style](./assets/images/ID-consolidation-style.jpg)
+
 ### Added a footer class
 
 ![footer](./assets/images/footer.jpg)
